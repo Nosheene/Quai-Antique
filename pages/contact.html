@@ -1,0 +1,47 @@
+<section class="section" aria-labelledby="contact-title">
+  <div class="section-inner contact-grid">
+    <div>
+      <h1 id="contact-title">Contact &amp; Réservation</h1>
+      <p class="section-intro">Réservez votre table ou contactez-nous pour toute demande.</p>
+
+      <form action="#" method="post" novalidate>
+        <div class="form-group">
+          <label for="nom">Nom complet</label>
+          <input type="text" id="nom" name="nom" autocomplete="name" required />
+        </div>
+        <div class="form-group">
+          <label for="email">E-mail</label>
+          <input type="email" id="email" name="email" autocomplete="email" required />
+        </div>
+        <div class="form-group">
+          <label for="tel">Téléphone</label>
+          <input type="tel" id="tel" name="tel" autocomplete="tel" />
+        </div>
+        <div class="form-group">
+          <label for="date">Date souhaitée</label>
+          <input type="date" id="date" name="date" />
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" placeholder="Nombre de convives, allergies…"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Envoyer la demande</button>
+      </form>
+    </div>
+
+    <aside class="info-panel">
+      <img class="map-placeholder" src="images/hero.jpg" alt="Vue du restaurant Quai Antique en bord de rivière" width="800" height="450" loading="lazy" />
+      <address>
+        <strong>12 Quai des Antiques</strong><br />
+        75000 Paris
+      </address>
+      <p><span aria-hidden="true">📞</span> 01 23 45 67 89<br /><span aria-hidden="true">✉</span> contact@quai-antique.fr</p>
+      <p class="hours">
+        <strong>Horaires</strong><br />
+        Mar–Ven : 12h–14h30 · 19h–22h30<br />
+        Sam–Dim : 12h–23h<br />
+        Fermé le lundi
+      </p>
+    </aside>
+  </div>
+</section>
