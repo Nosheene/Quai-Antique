@@ -1,0 +1,38 @@
+[
+  {
+    "categorie": "entrees",
+    "nom": "Velouté de potiron",
+    "description": "Crème fraîche, graines de courge",
+    "prix": "12 €"
+  },
+  {
+    "categorie": "entrees",
+    "nom": "Tartare de saumon",
+    "description": "Avocat, citron vert, herbes fraîches",
+    "prix": "16 €"
+  },
+  {
+    "categorie": "plats",
+    "nom": "Magret de canard",
+    "description": "Purée de patate douce, jus au miel",
+    "prix": "28 €"
+  },
+  {
+    "categorie": "plats",
+    "nom": "Filet de bar",
+    "description": "Légumes grillés, beurre blanc",
+    "prix": "26 €"
+  },
+  {
+    "categorie": "desserts",
+    "nom": "Tarte Tatin",
+    "description": "Glace vanille maison",
+    "prix": "9 €"
+  },
+  {
+    "categorie": "desserts",
+    "nom": "Mousse au chocolat",
+    "description": "Coulis de fruits rouges",
+    "prix": "8 €"
+  }
+]
