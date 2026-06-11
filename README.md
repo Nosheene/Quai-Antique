@@ -1,6 +1,6 @@
 # Quai Antique — Front-end statique (SPA)
 
-Projet fil rouge **Studi** (formation DWWM) — application une page avec routeur JavaScript.
+Projet — application une page avec routeur JavaScript.
 
 ## Structure du projet
 
