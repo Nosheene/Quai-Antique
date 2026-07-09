@@ -42,7 +42,7 @@ Police : **Inter** — Framework : **Bootstrap 5.3** (navbar + offcanvas)
 ## Lancer le projet en local
 
 ```bash
-cd /Users/nosheenemohammad/Studi/Quai-Antique
+
 python3 -m http.server 8080
 ```
 
